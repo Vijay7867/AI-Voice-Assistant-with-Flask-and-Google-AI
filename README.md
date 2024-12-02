@@ -5,8 +5,6 @@ This project builds a real-time AI-powered voice assistant using Python, Flask, 
 
 Learn how to build a real-time AI-powered voice assistant using Python, Google Generative AI, Flask, and JavaScript. This project demonstrates how to integrate voice commands, process user input, and display a dynamic conversation history in a web app. By the end of this tutorial, you will have a fully functional AI voice assistant capable of understanding speech and providing intelligent responses in real time.
 
----
-
 ## Features
 
 - **Real-Time Voice Input**: The assistant listens to your voice and processes it to generate responses.
@@ -14,8 +12,6 @@ Learn how to build a real-time AI-powered voice assistant using Python, Google G
 - **Dynamic Conversation History**: Keeps track of both user queries and AI responses.
 - **Speech Synthesis**: The AI responds audibly to the user.
 - **Speech Recognition**: Uses JavaScript's SpeechRecognition API to recognize user speech and send it to the backend.
-
----
 
 ## Technologies Used
 
@@ -25,8 +21,6 @@ Learn how to build a real-time AI-powered voice assistant using Python, Google G
 - **JavaScript**: Handles voice input and output, dynamically updating the conversation history.
 - **HTML/CSS**: For building the front-end user interface.
 
----
-
 ## How It Works
 
 1. **Voice Recognition**: When the user clicks on the microphone button, the browser listens for the user's speech using the `SpeechRecognition` API.
@@ -34,7 +28,6 @@ Learn how to build a real-time AI-powered voice assistant using Python, Google G
 3. **Dynamic UI Update**: The web page updates with the AI response and stores the conversation history.
 4. **Voice Response**: The AI speaks its response back to the user using the browser's `SpeechSynthesis` API.
 
----
 
 ## Installation
 
